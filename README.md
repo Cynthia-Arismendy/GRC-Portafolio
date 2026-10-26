@@ -12,6 +12,12 @@ Welcome! This repository showcases practical deliverables, security audit report
 * **Scope:** Evaluated internal IT assets, identified compliance gaps, mapped controls, and developed a prioritized remediation plan.
 * 📄 **[View Audit Report PDF](./Controls_and_Compliance_Checklist.pdf)**
 
+### 2. Incident Response & Documentation
+* **Project:** Incident Handler's Journal
+* **Frameworks & Standards:** NIST SP 800-61
+* **Scope:** Documented an end-to-end incident response process, analyzing security logs, identifying root causes, and applying NIST containment and mitigation steps.
+* 📄 **[View Incident Journal PDF](./Incident_Handler_Journal.pdf)**
+
 ---
 
 ## 🎓 Core Competencies
