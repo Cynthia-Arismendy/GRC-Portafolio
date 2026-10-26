@@ -18,6 +18,12 @@ Welcome! This repository showcases practical deliverables, security audit report
 * **Scope:** Documented an end-to-end incident response process, analyzing security logs, identifying root causes, and applying NIST containment and mitigation steps.
 * 📄 **[View Incident Journal PDF](./Incident_Handler_Journal.pdf)**
 
+### 3. Vulnerability Assessment & Risk Prioritization
+* **Project:** Enterprise System Vulnerability Review
+* **Frameworks & Standards:** NIST SP 800-30, CVSS Scoring
+* **Scope:** Analyzed system vulnerabilities, mapped potential business impact, and developed a prioritized remediation roadmap.
+* 📄 **[View Vulnerability Report PDF](./Vulnerability_Assessment_Report.pdf)**
+
 ---
 
 ## 🎓 Core Competencies
