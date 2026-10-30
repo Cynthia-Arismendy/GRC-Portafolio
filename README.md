@@ -30,3 +30,28 @@ Welcome! This repository showcases practical deliverables, security audit report
 * **Compliance & Frameworks:** NIST CSF 2.0, ISO 27001, SOC 2, PCI-DSS, GDPR
 * **Auditing & Analysis:** Control Mapping, Gap Analysis, Risk Remediation, Institutional Auditing
 * **Technical Knowledge:** Data Management, Relational Databases (SQL), Linux Security Principles
+
+---
+
+## 4. Multi-List Access Verification Script (Python Fundamentals Practice)
+
+### 🎯 Project Purpose
+As a career transitioner practicing Python fundamentals before starting my B.S. at WGU, I wrote this script to understand the logical workflows of access control reviews. In real corporate environments, access is granted to both internal employees and external third-party contractors (vendors). This project simulates verifying user access against multiple authorized identity groups.
+
+### 🧠 Skills Practiced
+- **Logical Operators:** Used the `and` operator to verify that a system user belongs to at least one trusted source.
+- **Control Flow:** Practiced basic `for` loops and `if` statements to handle identity evaluation.
+- **Data Hardcoding for Testing:** Manually simulated data lists to test the code's accuracy without requiring production database connections.
+
+### 📋 How the Logic Works
+The script acts as a security filter. It scans a list of active system users (`current_system_users`). If an active user is **not** found in the `active_employees` list **AND** is also **not** found in the `active_vendors` list, the script flags that account as an unauthorized access risk and prints an alert.
+
+- 📁 **View Code:** [`access_verification_audit.py`](./access-control-audit/access_verification_audit.py)
+
+### 🔮 Internship Goals & Future Learning Roadmap
+As I work toward my B.S. at WGU, I am actively seeking an internship opportunity where I can learn to scale this logic in real-world environments. My target learning milestones include:
+
+- **Automated Offboarding Triggers:** Learning how enterprise IAM systems automatically trigger audit scripts whenever an employee or contractor is offboarded from HR systems.
+- **Exploring AI & Automation in SecOps:** Developing practical skills to use AI tools and automation scripts to help detect access anomalies faster and streamline incident reporting.
+- **API Integration Basics:** Gaining hands-on experience connecting Python scripts to real identity platforms (such as Active Directory or Okta) to automatically flag or revoke unauthorized access.
+
