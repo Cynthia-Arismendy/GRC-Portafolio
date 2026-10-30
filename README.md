@@ -52,7 +52,15 @@ As a career transitioner practicing Python fundamentals before starting my B.S. 
 - **Data Hardcoding for Testing:** Manually simulated data lists to test the code's accuracy without requiring production database connections.
 
 ### 📋 How the Logic Works
-The script acts as a security filter. It scans a list of active system users (`current_system_users`). If an active user is **not** found in the `active_employees` list **AND** is also **not** found in the `active_vendors` list, the script flags that account as an unauthorized access risk and prints an alert.
+The script acts as a security filter by executing the following step-by-step logic:
+
+1. **Start:** Reads the list of accounts currently logged into the system (`current_system_users`).
+2. **Check 1 (Employees):** Checks if the user exists in `active_employees`.
+   - ➔ **If Yes:** Access is verified and approved.
+   - ➔ **If No:** Moves to Check 2.
+3. **Check 2 (Vendors):** Checks if the user exists in `active_vendors`.
+   - ➔ **If Yes:** Access is verified and approved.
+   - ➔ **If No (not in either list):** 🚨 **ALERT:** Flags account as an unauthorized access risk and prints an alert.
 
 - 📁 **View Code:** [`access_verification_audit.py`](./access-control-audit/access_verification_audit.py)
 
