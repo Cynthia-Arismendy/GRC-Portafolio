@@ -1,6 +1,14 @@
 # Cynthia Arismendy — GRC & Cybersecurity Portfolio
 
-Welcome! This repository showcases practical deliverables, security audit reports, and risk assessments created through formal technical training (WGU B.S. Cybersecurity candidate & Google Cybersecurity Professional Certificate).
+> **Target Goal:** Aspiring GRC / Cybersecurity Intern | B.S. Cybersecurity Candidate (WGU) & Google Cybersecurity Professional Certificate.
+
+---
+
+### 🛠️ Core Focus & Learning Foundations
+
+- **Frameworks & Standards (Practicing):** NIST CSF, ISO/IEC 27001 (A.9 Access Control), NIST SP 800-53, PCI-DSS, GDPR, SOC 2
+- **Technical & Practical Skills:** Python Basics (Access Audit Logic), Risk Assessment, Incident Response Documentation, Compliance Checklists
+- **Core Objective:** Seeking an entry-level internship to learn, grow, and apply foundational GRC/IAM concepts in real-world enterprise environments.
 
 ---
 
