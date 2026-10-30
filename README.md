@@ -33,7 +33,13 @@
 * 📄 **[View Vulnerability Report PDF](./Vulnerability_Assessment_Report.pdf)**
 
 ---
+### 4. Third-Party Risk Management (TPRM) Assessment
+* **Project:** SaaS Vendor Security Review
+* **Frameworks & Standards:** ISO 27001 (A.15 Supplier Relationships), NIST SP 800-161, SOC 2 Type II
+* **Scope:** Evaluated third-party cloud vendor posture, identified MFA and data retention gaps, and documented remediation requirements.
+* 📁 **[View TPRM Assessment Report](./vendor-risk-assessment/README.md)**
 
+  
 ## 🎓 Core Competencies
 * **Compliance & Frameworks:** NIST CSF 2.0, ISO 27001, SOC 2, PCI-DSS, GDPR
 * **Auditing & Analysis:** Control Mapping, Gap Analysis, Risk Remediation, Institutional Auditing
@@ -41,7 +47,7 @@
 
 ---
 
-## 4. Multi-List Access Verification Script (Python Fundamentals Practice)
+## 5. Multi-List Access Verification Script (Python Fundamentals Practice)
 
 ### 🎯 Project Purpose
 As a career transitioner practicing Python fundamentals before starting my B.S. at WGU, I wrote this script to understand the logical workflows of access control reviews. In real corporate environments, access is granted to both internal employees and external third-party contractors (vendors). This project simulates verifying user access against multiple authorized identity groups.
