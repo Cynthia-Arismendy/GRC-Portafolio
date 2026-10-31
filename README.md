@@ -77,3 +77,8 @@ As I work toward my B.S. at WGU, I am actively seeking an internship opportunity
 - **Exploring AI & Automation in SecOps:** Developing practical skills to use AI tools and automation scripts to help detect access anomalies faster and streamline incident reporting.
 - **API Integration Basics:** Gaining hands-on experience connecting Python scripts to real identity platforms (such as Active Directory or Okta) to automatically flag or revoke unauthorized access.
 
+## 6. Human Risk & Security Awareness Campaign
+- **Project:** "The Phishing Snowflake Effect" (Gamified Awareness Framework)
+- **Frameworks & Standards:** NIST CSF 2.0 (PR.AT-01, GV.OC-01), ISO 27001 (A.7.2.2)
+- **Scope:** Designed an educator-led, gamified security awareness framework featuring 60-second micro-learning scripts, dynamic avatar progression, WFA/PTO incentives, and automated audit evidence generation.
+- **[View Security Awareness Project](./projects/security-awareness-gamification/README.md)**
