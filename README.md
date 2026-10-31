@@ -77,8 +77,59 @@ As I work toward my B.S. at WGU, I am actively seeking an internship opportunity
 - **Exploring AI & Automation in SecOps:** Developing practical skills to use AI tools and automation scripts to help detect access anomalies faster and streamline incident reporting.
 - **API Integration Basics:** Gaining hands-on experience connecting Python scripts to real identity platforms (such as Active Directory or Okta) to automatically flag or revoke unauthorized access.
 
-## 6. Human Risk & Security Awareness Campaign
-- **Project:** "The Phishing Snowflake Effect" (Gamified Awareness Framework)
-- **Frameworks & Standards:** NIST CSF 2.0 (PR.AT-01, GV.OC-01), ISO 27001 (A.7.2.2)
-- **Scope:** Designed an educator-led, gamified security awareness framework featuring 60-second micro-learning scripts, dynamic avatar progression, WFA/PTO incentives, and automated audit evidence generation.
-- **[View Security Awareness Project](./projects/security-awareness-gamification/README.md)**
+# The Phishing Snowflake Effect: A Modern GRC Security Awareness Framework
+
+## 🎯 Executive Summary
+A gamified, behavior-driven security awareness framework designed to transform corporate culture, mitigate modern AI-driven phishing vectors, and seamlessly integrate with compliance frameworks like NIST CSF 2.0 and ISO 27001.
+
+---
+
+## 1. Pedagogical Micro-Learning Storyboard (60-Second Script)
+* **Format:** Ultra-short, high-impact video scripts broken down into exact timestamps (0:00 to 1:00).
+* **Modern Threat Vectors:** Focuses on realistic AI-generated threats, such as deepfake audio directives, deceptive QR codes, and urgent corporate benefits phishing.
+
+---
+
+## 2. Dynamic Employee Avatar Progression & Badging
+* **Level System:** Gamified progression tracking where employees evolve from Baseline to Security Sentinel and Master of Defense.
+* **Professional Validation:** Unlocks verified digital credentials and badges exportable to public professional profiles like LinkedIn.
+
+---
+
+## 3. Equitable Reward Architecture (On-Site & Remote Parity)
+* **For On-Site Staff:** Premium parking spots, catered team lunches, **Early Friday Sign-Off Passes**, and **1 additional Paid PTO Day** for maintaining zero-click records across 2 consecutive quarters.
+* **For Remote/WFA Staff:** Food delivery stipends (DoorDash/UberEats), home office technology stipends, **Total Disconnect Days**, and digital flexibility passes.
+
+---
+
+## 4. Viral Culture & Internal Communications
+* **Pre-Campaign Engagement:** Participatory baseline surveys co-designed with Human Resources.
+* **Viral Amplification:** Official corporate campaign hashtag (**`#CatchTheSnowflake`**) and automated public shoutouts/mentions in corporate Slack and Microsoft Teams channels upon module completion.
+* **Peer Recognition:** Monthly community episodes highlighting safe security behaviors and peer shout-out rewards.
+
+---
+
+## 5. GRC Audit Mapping & Automated Evidence Collection
+* **Standards Alignment:** Rigorously mapped to **NIST CSF 2.0** (Controls PR.AT-01, GV.OC-01) and **ISO/IEC 27001:2022** (Control A.7.2.2).
+* **Automation:** Designed for seamless integration with automated GRC and trust platforms like **Vanta** to automatically gather timestamped compliance audit trails.
+
+---
+
+## 6. RACI Governance & 10-Week Execution Roadmap
+* **Role Separation:** Clearly distinguishes the GRC Specialist’s strategic oversight from creative production, HR management, and IT administration.
+* **Rollout Timeline:** A structured 10-week execution plan moving from initial risk assessment and stakeholder alignment to full deployment and final auditor reporting.
+
+---
+
+## 🛡️ 7. Third-Party Vendor Security Extension (Supply Chain Protection)
+To mitigate supply chain and external vendor risks (fully aligned with ISO 27001:2022 A.7.2.2 and NIST CSF 2.0 GV.OC-01), the framework extends beyond internal staff:
+* **Vendor Integration Pack:** External suppliers, contractors, and third-party vendors handling company data undergo the same 60-second micro-learning modules and behavior-based awareness tracking.
+* **Compliance Pre-requisite:** Completion of security awareness verification and maintaining a clean click-record is mandatory for third-party API and system access renewals, ensuring end-to-end organizational defense.
+
+---
+
+### 🚀 Enterprise Implementation & Availability
+The core architecture, threat vector mapping, and strategic governance model for **"The Phishing Snowflake Effect"** are outlined above. 
+
+* **Proprietary Operational Guide:** The comprehensive, step-by-step implementation manual, metric calculators, and training assets are securely withheld to protect intellectual property.
+* **Professional Engagement:** Complete access to the full implementation package and customized deployment roadmaps is available through **full-time roles, strategic security consulting, or select graduate/advanced placement opportunities**.
